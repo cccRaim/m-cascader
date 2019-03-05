@@ -1,5 +1,7 @@
-# rmc-cascader
+# rmc-cascader-scroll
 ---
+
+> fork from rmc-cascader, add scroll visible effect and can click to scroll
 
 React Mobile Cascader Component (web and react-native)
 

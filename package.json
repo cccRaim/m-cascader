@@ -1,20 +1,20 @@
 {
-  "name": "rmc-cascader",
+  "name": "rmc-cascader-scroll",
   "version": "5.0.3",
-  "description": "m-cascader ui component for react",
+  "description": "m-cascader ui component for react, fork from m-cascader, add scroll visible effect and can click to scroll",
   "keywords": [
     "react",
     "react-component",
     "react-m-cascader",
     "m-cascader"
   ],
-  "homepage": "https://github.com/react-component/m-cascader",
+  "homepage": "https://github.com/cccRaim/m-cascader",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-component/m-cascader.git"
+    "url": "https://github.com/cccRaim/m-cascader.git"
   },
   "bugs": {
-    "url": "https://github.com/react-component/m-cascader/issues"
+    "url": "https://github.com/cccRaim/m-cascader/issues"
   },
   "files": [
     "lib",
