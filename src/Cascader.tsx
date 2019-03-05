@@ -1,7 +1,7 @@
 import React from 'react';
 import arrayTreeFilter from 'array-tree-filter';
-import MultiPicker from 'rmc-picker/lib/MultiPicker';
-import Picker from 'rmc-picker/lib/Picker';
+import MultiPicker from 'rmc-picker-scroll/lib/MultiPicker';
+import Picker from 'rmc-picker-scroll/lib/Picker';
 import { ICascaderProps } from './CascaderTypes';
 
 class Cascader extends React.Component<ICascaderProps, any> {

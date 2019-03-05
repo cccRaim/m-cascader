@@ -1,6 +1,6 @@
 import React from 'react';
-import PopupPicker from 'rmc-picker/lib/Popup';
-import { IPopupPickerProps } from 'rmc-picker/lib/PopupPickerTypes';
+import PopupPicker from 'rmc-picker-scroll/lib/Popup';
+import { IPopupPickerProps } from 'rmc-picker-scroll/lib/PopupPickerTypes';
 import { ICascaderProps, CascaderValue } from './CascaderTypes';
 
 export interface IPopupCascaderProps extends IPopupPickerProps {

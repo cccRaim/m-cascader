@@ -1,1 +1,1 @@
-export { default } from 'rmc-picker/lib/PopupStyles';
+export { default } from 'rmc-picker-scroll/lib/PopupStyles';
