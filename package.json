@@ -1,6 +1,6 @@
 {
   "name": "rmc-cascader-scroll",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "m-cascader ui component for react, fork from m-cascader, add scroll visible effect and can click to scroll",
   "keywords": [
     "react",
