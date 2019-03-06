@@ -77,6 +77,6 @@
   "dependencies": {
     "array-tree-filter": "2.1.x",
     "babel-runtime": "6.x",
-    "rmc-picker-scroll": "^5.0.5"
+    "rmc-picker-scroll": "^5.0.6"
   }
 }

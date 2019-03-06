@@ -50,7 +50,7 @@ npm start
 
 http://localhost:8000/examples/
 
-online example: http://react-component.github.io/m-cascader/
+online example: http://cccraim.github.io/m-cascader/
 
 ## react-native
 

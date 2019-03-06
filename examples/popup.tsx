@@ -3,7 +3,7 @@
 /* tslint:disable:no-console */
 
 import 'rmc-picker-scroll/assets/index.css';
-import 'rmc-cascader/assets/index.less';
+import 'rmc-cascader-scroll/assets/index.less';
 import 'rmc-picker-scroll/assets/popup.css';
 import React from 'react';
 import ReactDOM from 'react-dom';

@@ -1,7 +1,7 @@
 /* tslint:disable:no-console */
 
 import 'rmc-picker-scroll/assets/index.css';
-import 'rmc-cascader/assets/index.less';
+import 'rmc-cascader-scroll/assets/index.less';
 import Cascader from '../src/Cascader';
 import React from 'react';
 import ReactDOM from 'react-dom';

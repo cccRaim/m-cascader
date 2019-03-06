@@ -23,6 +23,8 @@ export interface ICascaderProps {
   /** web only */
   prefixCls?: string;
   /** web only */
+  rotate?: number;
+  /** web only */
   pickerPrefixCls?: string;
   /** web only */
   className?: string;
